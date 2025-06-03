@@ -1,0 +1,15 @@
+Feature Importance (Permutation Test):
+vertical_cdr: -0.000376
+horizontal_cdr: 0.000143
+area_cdr: 0.000036
+rim_ratio: -0.000179
+inferior_rim: -0.000018
+superior_rim: -0.000018
+nasal_rim: 0.000000
+temporal_rim: 0.000000
+mean_pallor: -0.000555
+max_pallor: -0.000018
+pallor_asymmetry: 0.000215
+vessel_density: -0.000125
+vessel_tortuosity: -0.000036
+istn_compliance: 0.000000
